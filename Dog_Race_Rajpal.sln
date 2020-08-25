@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dog_Race_Rajpal", "Dog_Race_Rajpal\Dog_Race_Rajpal.csproj", "{CFA4CF25-D419-4270-82B2-B9757FB16E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject_rajpal", "UnitTestProject_rajpal\UnitTestProject_rajpal.csproj", "{F4533679-0755-408D-AEFB-C238A92D998D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA4CF25-D419-4270-82B2-B9757FB16E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA4CF25-D419-4270-82B2-B9757FB16E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA4CF25-D419-4270-82B2-B9757FB16E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA4CF25-D419-4270-82B2-B9757FB16E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4533679-0755-408D-AEFB-C238A92D998D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4533679-0755-408D-AEFB-C238A92D998D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4533679-0755-408D-AEFB-C238A92D998D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4533679-0755-408D-AEFB-C238A92D998D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD782ED-E493-40BC-80E4-C55D8149A582}
+	EndGlobalSection
+EndGlobal
